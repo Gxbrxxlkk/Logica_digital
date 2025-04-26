@@ -1093,6 +1093,7 @@
     </comp>
     <comp lib="0" loc="(150,50)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="A"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(280,160)" name="Pin">
@@ -1374,7 +1375,7 @@
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Seletor de saída"/>
     </comp>
-    <comp loc="(1210,330)" name="detector_de_zeros"/>
+    <comp loc="(1210,330)" name="Se_0"/>
     <comp loc="(570,180)" name="bloco_logico"/>
     <comp loc="(570,80)" name="bloco_artmetico"/>
     <wire from="(170,240)" to="(180,240)"/>
@@ -1816,9 +1817,9 @@
     <wire from="(880,360)" to="(900,360)"/>
     <wire from="(950,340)" to="(1060,340)"/>
   </circuit>
-  <circuit name="detector_de_zeros">
+  <circuit name="Se_0">
     <a name="appearance" val="logisim_evolution"/>
-    <a name="circuit" val="detector_de_zeros"/>
+    <a name="circuit" val="Se_0"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
     <comp lib="0" loc="(340,320)" name="Pin">
