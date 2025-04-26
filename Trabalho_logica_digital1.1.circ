@@ -139,7 +139,7 @@
     <wire from="(530,220)" to="(590,220)"/>
   </circuit>
   <circuit name="adicao_32bit">
-    <a name="appearance" val="custom"/>
+    <a name="appearance" val="logisim_evolution"/>
     <a name="circuit" val="adicao_32bit"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="clabelup" val="south"/>
